@@ -1,9 +1,14 @@
  .country {
    border: 7px solid red;
    border-radius: 3px;
-   /* padding: 15px;
+   /* padding: 20px;
    margin: 20px; */
 
  }
 
- ;
+
+
+ .country-visited {
+   background-color: aqua;
+
+ }
